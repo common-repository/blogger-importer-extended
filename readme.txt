@@ -2,7 +2,7 @@
 Contributors: pipdig
 Tags: blogger, blogspot, importer
 Requires at least: 5.8
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 7.0
 Stable tag: trunk
 Donate link: https://www.pipdig.co/shop/blogger-importer-plugin/
